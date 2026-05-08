@@ -1,1 +1,15 @@
 https://prod.liveshare.vsengsaas.visualstudio.com/join?376C64483F523854493885B2F71242203C18
+
+
+##### What is this platform #####
+- Agentic Car buying platform
+- This is agentic end-to-end digital car buying front-end, and validates custoemr demand.
+- enables dealers, partners, Lloyds bank to Buy/sell cars
+- Lloyds bank acts as a dealer, deals can sell to Lloyds bank retail customers similar to autotrader.com or direct resale as a platform.
+
+##### Current Business challenges: #####
+- Fragmented and friction heavy car-buying experience
+- Uclear pricing, slow finance decision
+- Inconsistant stock details and time consuming dealer interaction.
+- as a result, high customer churn at the shopping cart
+- pressure on margins
